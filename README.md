@@ -1,7 +1,5 @@
 # BastiKiPathsahala
-Here’s your updated README in plain text with **no links** and your name added.
 
----
 
 # NGO Home Page
 
@@ -73,4 +71,4 @@ Year: 2025
 
 ---
 
-If you want, I can also **save this as a README.txt file** and give it to you for direct download so you can place it in your NGO project folder.
+
