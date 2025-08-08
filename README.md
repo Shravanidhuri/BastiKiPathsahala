@@ -1,1 +1,69 @@
 # BastiKiPathsahala
+Here’s your updated README in plain text with **no links** and your name added.
+
+---
+
+# NGO Home Page
+
+A modern, responsive homepage template for an NGO, built with HTML, CSS, and Bootstrap 5.
+It includes a hero section, navigation menu, about section, volunteer form, and footer.
+
+---
+
+## 📌 Features
+
+* Responsive Design – Works on mobile, tablet, and desktop devices.
+* Hero Section – Eye-catching header with a background image and call-to-action button.
+* Navigation Bar – Sticky, dark-themed navbar with smooth scrolling.
+* About Us Section – Overview of the NGO’s mission and goals.
+* Volunteer Form – Simple form for collecting volunteer details.
+* Modern UI Enhancements – Hover effects, shadows, and smooth animations.
+
+---
+
+## 📂 File Structure
+
+NGO-Home-Page/
+│
+├── index.html        # Main HTML file
+├── README.txt        # Project documentation
+└── assets/           # (Optional) Images, icons, and other resources
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* Bootstrap 5
+* Unsplash (for royalty-free images)
+
+---
+
+## 🚀 How to Use
+
+1. Download or copy the project files to your local system.
+2. Open the index.html file in any web browser.
+
+---
+
+
+
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+You are free to use, modify, and distribute it as per the license terms.
+
+---
+
+## 🤝 Contribution
+
+Pull requests are welcome. If you find a bug or want to improve the design, you may update and share your version.
+
+Author: Shravani Dhuri
+Year: 2025
+
+---
+
+If you want, I can also **save this as a README.txt file** and give it to you for direct download so you can place it in your NGO project folder.
