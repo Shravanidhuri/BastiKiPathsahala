@@ -9,6 +9,13 @@ A modern, responsive homepage template for an NGO, built with HTML, CSS, and Boo
 It includes a hero section, navigation menu, about section, volunteer form, and footer.
 
 ---
+📷 Screenshot
+Image: 📷 Screenshot
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/48cdf090-0213-403c-a7b5-7ca072fbff94" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/e41b568c-b02d-4d67-aebe-d19ecddb565d" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/92cd3e6b-dfb0-484c-ab9e-1bda16580e66" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/4a178336-e40a-4486-b4b2-e7426051565c" />
+
 
 ## 📌 Features
 
